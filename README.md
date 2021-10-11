@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/ahmedshakil0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedshakil0512" height="30" width="40" /></a>
 </p>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/ahmedshakil0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedshakil0512" height="30" width="40" /></a>
 </p>
 
